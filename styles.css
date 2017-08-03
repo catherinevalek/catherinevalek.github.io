@@ -1,9 +1,19 @@
 body {
-	background:yellow
+	background: #ffeb99;
+	font-family: Verdana;
+}
+
+h1 {
+	font-size:200%;
+}
+
+h2 {
+	font-size:200%;
 }
 
 #intro {
 	border: 3px solid black;
+	border-radius: 10px;
 	padding: 10px;
 	margin-top: 20px;
 }
@@ -11,4 +21,16 @@ body {
 footer {
 	margin: auto;
 	width: 260px;
+}
+
+.cities {
+	background-color: #ffdb4d;
+	border-radius: 10px;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px
+}
+
+#extra-cities {
+	font-weight: bold;
 }
