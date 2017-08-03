@@ -1,1 +1,62 @@
-body {background:blue}
+body {
+	background: #DEF4FE;
+	font-family: Verdana;
+	color: #7D0222;
+}
+
+h1 {
+	font-size:200%;
+}
+
+h2 {
+	font-size:200%;
+}
+
+a:visited { 
+    color: navy;
+}
+
+footer {
+	margin: auto;
+	width: 260px;
+	padding-top: 20px;
+}
+
+#intro {
+	border: 5px solid #99CBFD;
+	border-radius: 30px;
+	padding: 10px;
+	margin: 20px;
+}
+
+.cities {
+	background-color: #99CBFD;
+	border-radius: 30px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 20px
+}
+
+#extra-cities {
+	font-weight: bold;
+	font-family: Arial;
+}
+
+.page3 {
+    background-image: url("prague.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #7D0222;
+    color: white;
+    width: 25%;
+}
+
+@media screen and (max-width: 800px) {
+  .page3 {
+    background-image: none
+  }
+}
