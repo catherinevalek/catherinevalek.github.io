@@ -13,7 +13,7 @@ h2 {
 }
 
 a:visited { 
-    color: navy;
+	color: navy;
 }
 
 footer {
@@ -43,20 +43,20 @@ footer {
 }
 
 .page3 {
-    background-image: url("prague.jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
+	background-image: url("prague.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 table {
-    border-collapse: collapse;
-    background-color: #7D0222;
-    color: white;
-    width: 25%;
+	border-collapse: collapse;
+	background-color: #7D0222;
+	color: white;
+	width: 25%;
 }
 
 @media screen and (max-width: 800px) {
-  .page3 {
-    background-image: none
+	.page3 {
+		background-image: none
   }
 }
