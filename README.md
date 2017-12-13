@@ -1,1 +1,1 @@
-# Check out my personal site [here!](catherinevalek.github.io)
+# Check out my personal site [here!](https://catherinevalek.github.io/)
