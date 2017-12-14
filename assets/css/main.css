@@ -1614,6 +1614,13 @@
         font-size: 1.25em;
 	}
 
+	section.resume-item {
+		margin-left: 2em;
+	}
+		section.resume-item p#minors {
+			margin-top: -0.6em;
+		}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: black;
 		/*color: #787878;*/
@@ -1759,7 +1766,7 @@
 	header h4 + p,
 	header h5 + p,
 	header h6 + p {
-		font-size: 0.9em;
+		font-size: 1em;
 		margin-top: -0.6em;
 		line-height: 1.5em;
 	}
@@ -2131,7 +2138,7 @@
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		padding-left: 1.5em;
 	}
 
 		ul li {
